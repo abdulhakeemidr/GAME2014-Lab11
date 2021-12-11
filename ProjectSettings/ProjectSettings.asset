@@ -155,7 +155,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: ca.GeorgeBrownCollege.GAME2014F2021Lab11
     Lumin: com.DefaultCompany.com.unity.template.mobile2D
-    Standalone: com.GeorgeBrownCollege.GAME2014-F2021-Lab9
+    Standalone: ca.GeorgeBrownCollege.GAME2014-F2021-Lab11
     iPhone: com.GeorgeBrownCollege.GAME2014-F2021-Lab9
     tvOS: com.DefaultCompany.com.unity.template.mobile2D
   buildNumber:
